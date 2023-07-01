@@ -1,0 +1,22 @@
+body{
+  background-color: #000000;
+  color: #ffffff;
+}
+
+button {
+  color: #000000;
+  background-color: #ffffff;
+  /* border-radius: 20%; */
+  border: 100px;
+  padding: 20px;
+  font-weight: bolder;
+
+}
+
+button:hover{
+  /* border-radius: 10%; */
+  /* border-style: dashed;
+  border-color: red; */
+  background-color: #0000ff;
+
+}
